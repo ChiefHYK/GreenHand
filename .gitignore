@@ -1,0 +1,6 @@
+   __pycache__/
+   *.pyc
+   .DS_Store
+   highscore.txt
+   .env
+   .venv/
